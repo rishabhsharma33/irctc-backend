@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Build
+/build/
+/app/build/
+/.gradle/
+
+# OS
+.DS_Store
+
+# Local SDK paths
+local.properties
